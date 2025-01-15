@@ -1,8 +1,0 @@
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/CMakeFiles/base.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/CMakeFiles/ThreadPool.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/googletest/CMakeFiles/gtest.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/googletest/CMakeFiles/gtest_main.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/googletest/CMakeFiles/edit_cache.dir
-/Volumes/WD_BLACK/Coding/Project/CPP/ThreadPool/cmake-build-debug/googletest/CMakeFiles/rebuild_cache.dir
